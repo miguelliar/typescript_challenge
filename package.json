@@ -1,0 +1,27 @@
+{
+  "name": "typescript_challenge",
+  "version": "1.0.0",
+  "description": "Exercises implemented",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelliar/typescript_challenge.git"
+  },
+  "keywords": [
+    "typescript",
+    "practice",
+    "learning"
+  ],
+  "author": "Miguel Ligero Arbesu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguelliar/typescript_challenge/issues"
+  },
+  "homepage": "https://github.com/miguelliar/typescript_challenge#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
